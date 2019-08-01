@@ -1,8 +1,12 @@
 @charset "utf-8";
 /* CSS Document */
+body{
+	background-color: #e7e7e7;
+}
 .container{
 	height: auto;
 	background-color: #e7e7e7;
+	
 	margin: 0 auto;
 }
 .dautien{
